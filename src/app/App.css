@@ -1,0 +1,39 @@
+/**
+ * # sourceMappingURL=App.scss.map
+ *
+ * @format
+ */
+body {
+  font-family: "Poppins", sans-serif !important;
+}
+.login-form {
+  width: 60%;
+  background-color: white;
+  padding: 20px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.ant-input {
+  height: 44px !important;
+}
+.ant-btn-primary {
+  background-color: #06679f !important;
+  height: 44px !important;
+  width: 15vw !important;
+  margin: auto !important;
+}
+.button .ant-form-item-control-input-content {
+  display: flex !important;
+  justify-content: center !important;
+}
+
+@media screen and (max-width: 756px) {
+  .login-form {
+    width: 100% !important;
+  }
+  .ant-btn-primary {
+    background-color: #06679f !important;
+    height: 44px !important;
+    width: 90vw !important;
+    margin: auto !important;
+  }
+}
