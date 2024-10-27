@@ -1,30 +1,22 @@
 <h1 align="center">
-   Vusic | The music destination you want.
+   Podtalk
 </h1>
 
 <div align="center">
-
-![Home Page](https://drive.google.com/uc?id=1ayxhKGDHtysZPMqti6k4ZY072nm3I3MZ)
-
-    A music app made with the help of React.js.
-    
+    A fully functional React app designed for playing podcasts, featuring both a backend and REST API. This full-stack application also includes a mobile version.
 </div>
 
-## TECHNOLOGY USED
+## Technologies Used
 
 * ### [React.js](https://reactjs.org/)
-    * ###### [react-router](https://github.com/ReactTraining/react-router#readme)
-    * ###### [react-redux](https://react-redux.js.org/)
-    * ###### [material-ui/core](https://www.npmjs.com/package/@material-ui/core)
-    * ###### [material-ui/icons](https://www.npmjs.com/package/@material-ui/icons)
-    * ###### [context API](https://reactjs.org/docs/context.html)
-    * ###### [scss](https://sass-lang.com/)
-   
+    * ###### [React Router](https://github.com/ReactTraining/react-router#readme)
+    * ###### [React Redux](https://react-redux.js.org/)
+    * ###### [Material-UI Core](https://www.npmjs.com/package/@material-ui/core)
+    * ###### [Material-UI Icons](https://www.npmjs.com/package/@material-ui/icons)
+    * ###### [Context API](https://reactjs.org/docs/context.html)
+    * ###### [SCSS](https://sass-lang.com/)
 
 ## Attribution
-    
-[Icons](www.flaticon.com) made by Freepikfrom 
 
-[Music](https://ncs.io/music) by NCS
+Thank you for Freepik for the outline and design
 
-    Please make sure you fork the repository
